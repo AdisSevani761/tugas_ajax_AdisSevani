@@ -1,0 +1,16 @@
+{
+    "name": "mrhid/tugas_ajax_adissevani",
+    "autoload": {
+        "psr-4": {
+            "Mrhid\\TugasAjaxAdissevani\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adis"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
